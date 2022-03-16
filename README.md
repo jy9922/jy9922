@@ -1,7 +1,9 @@
 ## Hi there, I'm JiYoon
 
 ## 👩🏻‍💻Ji-Yoon👩🏻‍💻
-<!--bullet list>
+* 
+*
+*
 
 
 ## 
