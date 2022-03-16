@@ -1,6 +1,6 @@
 # JI-YOON
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <!--
 **jy9922/jy9922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
