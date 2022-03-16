@@ -1,6 +1,8 @@
 ## Hi there, I'm JiYoon
 
 ## 👩🏻‍💻Ji-Yoon👩🏻‍💻
+<!--bullet list>
+
 
 ## 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
