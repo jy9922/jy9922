@@ -1,8 +1,8 @@
-## Hi there, I'm JiYoon
+## Hi there!
 
 ## 👩🏻‍💻Ji-Yoon👩🏻‍💻
-* 
-*
+* I'm 
+* I
 *
 
 
