@@ -1,4 +1,6 @@
-# Hi there 👋
+# JI-YOON
+
+<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=python&logoColor=blue"/>
 
 <!--
 **jy9922/jy9922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
