@@ -1,4 +1,4 @@
-# Hi there, I'm JiYoon👋
+## Hi there, I'm JiYoon
 
 ## 👩🏻‍💻Ji-Yoon👩🏻‍💻
 
