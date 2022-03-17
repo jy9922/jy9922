@@ -10,7 +10,7 @@
 * I like to design using Photoshop and Illustrations
 * I've designed emojis or characters before
 
-<a href="https://codingding365.tistory.com/m" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://codingding365.tistory.com/m" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square"/></a>
+<a href="https://www.notion.so/Jiyoon-366f9bbf0a714ee492a439f066a71791" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://codingding365.tistory.com/m" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square"/></a>
 
 ***
 ## 📚Tech-Stack📚
