@@ -2,8 +2,8 @@
 
 ## 👩🏻‍💻Ji-Yoon👩🏻‍💻
 
-* Front End Developer - ing
-* I'm interested in Web Developing and UX/UI Design
+* Back End Developer - ing
+* I'm interested in Web Developing and Cloud Computing
 * Sometimes I develop Android App
 * I hope to develop every beutiful things
 ***
