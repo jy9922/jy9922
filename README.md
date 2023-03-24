@@ -2,14 +2,25 @@
 
 ## 👩🏻‍💻Ji-Yoon👩🏻‍💻
 
-* Back End Developer - ing
-* I'm interested in Web Developing and Cloud Computing
-* Sometimes I develop Android App
-* I hope to develop every beutiful things
-***
-* I like to design using Photoshop and Illustrations
-* Sometimes I design emojis and characters
-* I like to eat and play tennis
+### Introduction
+Welcome to my GitHub profile! <br>
+My name is Jiyoon and I am passionate about cloud computing. <br>
+My goal is to become a Cloud Engineer and help organizations to leverage the benefits of cloud technologies.
+
+### Projects
+On this page, you will find some of my team projects, which cover different aspects of cloud computing, such as:
+- SouP : Special price information inquiry service operated in AWS EKS environment
+- YOSO : Chemical product component discrimination service using AWS environment and camera OCR API
+
+### CKA Certified
+I am proud to have earned the Certified Kubernetes Administrator (CKA) certification, which is a widely recognized credential in the cloud industry. The CKA certification validates my expertise in deploying, maintaining, and troubleshooting Kubernetes clusters.
+
+You can verify my certification by visiting the CNCF Certified Kubernetes Administrator Registry.
+
+### Contact me
+If you have any questions or comments, or if you are interested in collaborating with me, please feel free to reach out to me at myjjy6190@gmail.com.
+
+Thank you for visiting my GitHub profile!
 
 <a href="https://www.instagram.com/matzip_log" target="_blank"> <img src="https://img.shields.io/badge/Instagrm-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://codingding365.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square"/></a>
 
